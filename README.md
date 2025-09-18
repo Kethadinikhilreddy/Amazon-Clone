@@ -32,7 +32,7 @@ Here’s a quick look at the project:
 
 
 ## 🔗 Connect
-You can also check out my **LinkedIn post** about this project [here](https://www.linkedin.com/in/nikhil-reddy-kethadi-311906253/).  
+You can also check out my **LinkedIn post** about this project [here](https://www.linkedin.com/posts/nikhil-reddy-kethadi-311906253_webdevelopment-frontend-html-activity-7374315455676649472-pTcK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6axj0BvtsZL5vRwwy7YdSQYRa5u6AKdfU).  
 
 👉 Feel free to ⭐ this repo if you found it helpful!
 
